@@ -1,0 +1,11 @@
+2022-11-08T02:31:37+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function do_shortcodes_in_html_tags(), 1 passed in C:\xampp\htdocs\wp-template\wp-content\themes\etechix\index.php on line 22 and exactly 3 expected in C:\xampp\htdocs\wp-template\wp-includes\shortcodes.php:386
+Stack trace:
+#0 C:\xampp\htdocs\wp-template\wp-content\themes\etechix\index.php(22): do_shortcodes_in_html_tags('[carousel_slide...')
+#1 C:\xampp\htdocs\wp-template\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\wp-template\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\wp-template\index.php(17): require('C:\\xampp\\htdocs...')
+#4 {main}
+  thrown in C:\xampp\htdocs\wp-template\wp-includes\shortcodes.php on line 386
+
+2022-11-08T11:19:19+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\wp-template\wp-includes\Requests\Transport\cURL.php on line 484
+

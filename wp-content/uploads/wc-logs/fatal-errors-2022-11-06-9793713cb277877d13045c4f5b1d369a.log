@@ -1,0 +1,6 @@
+2022-11-06T14:37:58+00:00 CRITICAL Maximum execution time of 30 seconds exceeded en C:\xampp\htdocs\wp-template\wp-includes\Requests\Transport\cURL.php en la línea 484
+
+2022-11-06T19:55:01+00:00 CRITICAL Maximum execution time of 30 seconds exceeded en C:\xampp\htdocs\wp-template\wp-includes\Requests\Transport\cURL.php en la línea 484
+
+2022-11-06T21:16:35+00:00 CRITICAL syntax error, unexpected '3' (T_LNUMBER), expecting ')' en C:\xampp\htdocs\wp-template\wp-content\themes\etechix\index.php en la línea 22
+

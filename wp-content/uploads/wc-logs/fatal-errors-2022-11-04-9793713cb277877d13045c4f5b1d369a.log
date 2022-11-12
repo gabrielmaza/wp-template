@@ -1,0 +1,6 @@
+2022-11-04T12:19:00+00:00 CRITICAL Maximum execution time of 30 seconds exceeded en C:\xampp\htdocs\wp-template\wp-includes\Requests\Transport\cURL.php en la línea 484
+
+2022-11-04T13:22:08+00:00 CRITICAL syntax error, unexpected '<', expecting '(' en C:\xampp\htdocs\wp-template\wp-content\themes\etechix\index.php en la línea 8
+
+2022-11-04T20:46:31+00:00 CRITICAL Maximum execution time of 30 seconds exceeded en C:\xampp\htdocs\wp-template\wp-includes\Requests\Transport\cURL.php en la línea 484
+
